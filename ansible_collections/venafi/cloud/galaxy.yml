@@ -1,0 +1,13 @@
+namespace: venafi
+name: cloud
+version: 1.4.0
+authors:
+  - Venafi
+description: Ansible collection for Venafi TLS Protect Cloud
+license: Apache-2.0
+repository: https://github.com/venafi/ansible-collection-cloud
+tags:
+  - venafi
+  - cloud
+  - certificate
+  - tls
